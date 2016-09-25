@@ -1,0 +1,74 @@
+header {
+    background-color: lightgrey;
+    position: fixed;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+.logo {
+    font-family: sans-serif;
+    color: black;
+    display: inline-block;
+}
+
+.logo2 {
+    font-family: sans-serif;
+    color: black;
+    float: right;
+    border-left: 100px;
+    margin-right: 2rem;
+}
+
+.section-search {
+    margin-top: 5rem;
+}
+
+.search {
+    font-family: sans-serif;
+    margin-bottom: 1rem;
+}
+
+#search {
+    font-family: sans-serif;
+    margin-bottom: 2rem;
+}
+
+.mag-glass {
+    width: 10px;
+    height: 10px;
+}
+
+.pages {
+    font-family: sans-serif;
+    border-radius: 90px;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+}
+
+.pages2 {
+    font-family: sans-serif;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+}
+
+.list {
+    font-family: sans-serif;
+}
+
+.tech {
+    color: purple;
+}
+
+.front {
+    color: purple;
+}
+
+.senior {
+    color: purple;
+}
